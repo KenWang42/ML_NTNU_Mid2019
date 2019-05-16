@@ -1,0 +1,9 @@
+small.light,normal,yes
+small,heavy,hot,yes
+small,normal,hot,yes
+large,light,cold,no
+small,heavy,cold,yes
+medium,heavy,normal,yes
+large,light,normal,yes
+medium,heavy,hot,no
+large,light,hot,yes
